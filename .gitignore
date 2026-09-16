@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pptx
+*.zip
+.DS_Store
+imgs/
+*.md.out
